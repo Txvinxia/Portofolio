@@ -1,0 +1,23 @@
+// install vite
+npm create vite@latest ./
+
+// install and run
+npm install
+npm run dev
+
+// istalling all the dependencies
+npm install gsap @gsap/react three @react-three/fiber @react-three/drei @react-three/postprocessing
+
+// install tailwind css
+npm install tailwindcss @tailwindcss/vite
+
+// install react responsive
+npm i react-responsive
+
+////////// use sketchfab for 3d models
+
+// convert to jsx format
+npx gltfjsx optimized-room.glb
+
+// instal count up animation
+npm install react-countup
