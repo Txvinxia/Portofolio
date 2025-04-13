@@ -19,5 +19,11 @@ npm i react-responsive
 // convert to jsx format
 npx gltfjsx optimized-room.glb
 
+// optimize it 
+npx gltfjsx computer-optimized.glb -T
+
 // instal count up animation
 npm install react-countup
+
+// email
+npm install @emailjs/browser
